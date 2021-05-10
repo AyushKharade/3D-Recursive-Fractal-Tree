@@ -7,3 +7,9 @@ Vention_3D/Packages
 Vention_3D/Temp
 
 
+Vention_3D/.vs
+Vention_3D/obj
+.csproj
+Vention_3D/Vention_3D.sln
+Vention_3D/Unity.Rider.Editor.csproj
+*.csproj
